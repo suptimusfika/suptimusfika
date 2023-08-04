@@ -15,7 +15,7 @@
 Here are some of the key skills I'm developing in the field of Software Quality Assurance:
 
 - **Manual Testing:** Proficient in designing test cases, executing test scenarios, and defect reporting.
-- **Test Automation:** Familiar with test automation tools such as Selenium, JUnit, TestNG, Cucumber, Rest Assured or similar.
+- **Test Automation:** Familiar with test automation tools such as Selenium, JUnit, TestNG, Cucumber, Rest Assured, Cypress or similar.
 - **Bug Tracking:** Experience using bug tracking tools like Jira, Bugzilla, or similar.
 - **Test Plan and Strategy:** Knowledgeable in creating test plans and strategies to ensure comprehensive testing.
 
@@ -136,6 +136,18 @@ https://github.com/suptimusfika/Cucumber_Project_Github_Search_Automation
 - TestNG<br>
 <b>Project Link:</b>
 https://github.com/suptimusfika/RestAssured_Automation_Project_Domoney_API
+<br><br>
+<b>Project 13: Cypress Web Automation Project</b>
+<br>
+<b>Technology used:</b><br>
+- Cypress<br>
+- VS Code<br>
+- Javascript<br>
+- Mochawesome<br>
+<b>Framework used:</b><br>
+- Mocha chai<br>
+<b>Project Link:</b>
+https://github.com/suptimusfika/Cypress_Web_Automation_Project
 
 <h1 align="left">Connect with Me</h1>
 GitHub: https://github.com/suptimusfika
