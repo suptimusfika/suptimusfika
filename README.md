@@ -148,3 +148,5 @@ Feel free to reach out to me if you have any questions or if you're interested i
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suptimusfika&show_icons=true&locale=en&layout=compact" alt="suptimusfika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suptimusfika&show_icons=true&locale=en" alt="suptimusfika" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suptimusfika&" alt="suptimusfika" /></p>
